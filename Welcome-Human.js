@@ -9,7 +9,7 @@ switch (expr) {
   case "Dad": //the Dad greeting
     console.log("*hugs*");
     break;
-  case "Medical Worker": //the non emergency Medical greeting
+  case "Community Suppport Team": //the CST greeting
     console.log("I've been expecting you!");
     break;
   case "Maintenance Worker": //the Maintenance greeting
