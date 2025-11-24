@@ -12,6 +12,6 @@ switch (expr) {
   case "Maintenance Worker": //the Maintenance greeting
     console.log("Let me show you the issue.");
     break;
-    case "friends": //friend greeting
-        console.log("wassup");
+  case "friends": //friend greeting
+    console.log("wassup");
 }
