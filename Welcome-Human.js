@@ -3,9 +3,6 @@ switch (expr) {
     default: //the generic greeting
     console.log("Can I help you?");
     break;
-  case "Family": //the Family greeting
-    console.log("Welcome to the shit show");
-    break;
   case "Dad": //the Dad greeting
     console.log("*hugs*");
     break;
@@ -15,4 +12,6 @@ switch (expr) {
   case "Maintenance Worker": //the Maintenance greeting
     console.log("Let me show you the issue.");
     break;
+    case "friends": //friend greeting
+        console.log("wassup");
 }
